@@ -20,27 +20,27 @@ A text editor or an IDE (such as IntelliJ IDEA, Eclipse, or NetBeans)
 bash
 
 Copy
-git clone https://github.com/yourusername/java-programs-basic.git
-cd java-programs-basic
+- git clone https://github.com/sathvikeppakayla/Java-Programs-Basic-level.git
+- cd java-programs-basic
 ### Executing the programs
 * Navigate to the desired program directory.
 * Compile the Java file:
 bash
 
 Copy
-javac ProgramName.java
-Run the program:
+- javac ProgramName.java
+#### Run the program:
 bash
 
-Copy
-java ProgramName
+#### Copy
+- java ProgramName
 ## Examples
 Here are a few examples of what you will find in this repository:
 
-HelloWorld.java: A simple program to print "Hello, World!".
-SumCalculator.java: A program that calculates the sum of two integers.
-Factorial.java: A program that calculates the factorial of a number using recursion.
-BubbleSort.java: An implementation of the bubble sort algorithm.
+- HelloWorld.java: A simple program to print "Hello, World!".
+- SumCalculator.java: A program that calculates the sum of two integers.
+- Factorial.java: A program that calculates the factorial of a number using recursion.
+- BubbleSort.java: An implementation of the bubble sort algorithm.
 ## Usage
 Feel free to explore and modify any of the programs. You can use these examples to practice and enhance your Java skills.
 
